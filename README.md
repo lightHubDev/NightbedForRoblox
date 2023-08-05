@@ -1,6 +1,4 @@
-# NightbedForRoblox
-
-Script For Roblox And using anygame
+# Not mine
 
 # Script
 ```
