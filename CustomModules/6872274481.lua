@@ -203,7 +203,7 @@ local function getCurrentSword()
 end
 
 local win = kavo:CreateWindow({
-  ["Title"] = "Nightbed"..(shared.NightbedPrivate and " PRIVATE" or ""),
+  ["Title"] = "NightStars"..(shared.NightbedPrivate and " PRIVATE" or ""),
   ["Theme"] = "Luna"
 })
 
